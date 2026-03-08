@@ -2,7 +2,7 @@
 
 ## Hello, world!
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianvasquez&show_icons=true&theme=gruvbox)](https://github.com/cristianvasquez)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianvasquez&show_icons=true&theme=gruvbox)]
 
 ---
 
